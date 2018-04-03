@@ -8,6 +8,7 @@ public class ModulusAksi {
        
        r1.cetakdata();
        System.out.println("Hasil Modulus = "+r1.hitungHasil());
+       r1.cetakHasil();
     }
     
 }

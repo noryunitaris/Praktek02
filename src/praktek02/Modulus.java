@@ -15,4 +15,9 @@ public class Modulus {
         hasil=X%Y;
         return hasil;
     }
+    
+    void cetakHasil(){
+        System.out.println("Hasilnya adalah = "+hitungHasil());
+    
+    }
 }
