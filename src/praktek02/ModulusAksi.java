@@ -5,6 +5,8 @@ public class ModulusAksi {
         Modulus r1 = new Modulus();
        r1.X = 10;
        r1.Y = 3;
+       
+       r1.cetakdata();
     }
     
 }
