@@ -7,6 +7,13 @@ public class Modulus {
         X=7;
         Y=5;
     }
+
+    public Modulus(double X, double Y) {
+        this.X = X;
+        this.Y = Y;
+    }
+    
+    
     
     void cetakdata(){
         System.out.println("++++++++++++");;
