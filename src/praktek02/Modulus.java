@@ -9,4 +9,10 @@ public class Modulus {
         System.out.println(   "Y : "+Y);
         System.out.println("++++++++++++");;
     }
+    
+    double hitungHasil(){
+        double hasil;
+        hasil=X%Y;
+        return hasil;
+    }
 }

@@ -7,6 +7,7 @@ public class ModulusAksi {
        r1.Y = 3;
        
        r1.cetakdata();
+       System.out.println("Hasil Modulus = "+r1.hitungHasil());
     }
     
 }
