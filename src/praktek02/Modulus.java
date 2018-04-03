@@ -2,6 +2,11 @@ package praktek02;
 public class Modulus {
     double X;
     double Y;
+
+    public Modulus() {
+        X=7;
+        Y=5;
+    }
     
     void cetakdata(){
         System.out.println("++++++++++++");;
